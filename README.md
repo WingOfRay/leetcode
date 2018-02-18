@@ -1,2 +1,2 @@
-# leetcode_001
-leetcode 001 two sum
+# leetcode
+To find good job, I must work hard.
